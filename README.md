@@ -1,6 +1,6 @@
 Hi there, I'm Jacob Riley! I'm a self-taught front-end developer passionate about creating beautiful, responsive websites that are both user-friendly and accessible.
 
-My journey into web development started when I discovered my love for design and decided to teach myself how to code. I spent countless hours learning HTML, CSS, JavaScript, and various front-end frameworks such as Bootstrap and React. I'm always eager to learn more and stay up-to-date with the latest trends and technologies in the industry.
+My journey into web development started when I discovered my love for design and decided to teach myself how to code. I spent countless hours learning HTML, CSS, JavaScript, as well as learning various front-end frameworks such as React. I'm always eager to learn more and stay up-to-date with the latest trends and technologies in the industry.
 
 I've worked on a variety of personal projects, including a responsive portfolio website and a JavaScript-based game. Through these projects, I've gained experience in web design and front-end development. I'm also familiar with Git and GitHub, and I understand the importance of version control in collaborative projects.
 
